@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/player1_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+
+        android:gravity="left|right|center_horizontal|fill_horizontal|center|fill|start|end"
+        android:text="@string/player1_dialog_label" />
+
+    <EditText
+        android:id="@+id/player1_edit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left|right|center_horizontal|fill_horizontal|center|fill|start|end"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+
+        android:capitalize="none"
+        android:gravity="left|right|center_horizontal|fill_horizontal|center|fill|start|end"
+        android:scrollHorizontally="true"
+        android:selectAllOnFocus="true" />
+
+    <TextView
+        android:id="@+id/player2_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+
+        android:gravity="left|right|center_horizontal|fill_horizontal|center|fill|start|end"
+        android:text="@string/player2_dialog_label" />
+
+    <EditText
+        android:id="@+id/player2_edit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left|right|center_horizontal|fill_horizontal|center|fill|start|end"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:capitalize="none"
+        android:gravity="left|right|center_horizontal|fill_horizontal|center|fill|start|end"
+        android:scrollHorizontally="true"
+        android:selectAllOnFocus="true" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left|right|center_horizontal|fill_horizontal|center|fill|start|end"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/okButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|right|center_horizontal|fill_horizontal|center|fill|start|end"
+            android:layout_weight="1"
+            android:onClick="playerNamesClickHandler"
+            android:text="@string/alert_dialog_ok" />
+
+        <Button
+            android:id="@+id/cancelButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|right|center_horizontal|fill_horizontal|center|fill|start|end"
+            android:layout_weight="1"
+            android:onClick="playerNamesClickHandler"
+            android:text="@string/alert_dialog_cancel" />
+    </LinearLayout>
+</LinearLayout>

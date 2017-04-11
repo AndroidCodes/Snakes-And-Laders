@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="highScores">High Scores</string>
+    <string name="ok">OK</string>
+    <string name="enterName">Enter Name</string>
+    <string name="highScore">High Score</string>
+    <string name="topScore">Score : [TOPSCORE]\nYou are among the top 10 high scores!</string>
+    <string name="unknown">Unknown</string>
+    <string name="app_name">Snakes Ladders</string>
+    <string name="play">Play</string>
+    <string name="multiPlayers">Multi Players</string>
+    <string name="player_names">Player Names</string>
+    <string name="resume">Resume</string>
+    <string name="rateApp">Rate this App</string>
+    <string name="quit">Quit</string>
+    <string name="player1_dialog_label">Player 1:</string>
+    <string name="player2_dialog_label">Player 2:</string>
+    <string name="enter_player_names">Enter Player Names</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_cancel">Cancel</string>
+    <string name="singlePlayerKey">singlePlayer</string>
+    <string name="isResumeKey">isResume</string>
+    <string name="player1NameKey">player1</string>
+    <string name="player2NameKey">player2</string>
+    <string name="player1DeafultName">Player 1</string>
+    <string name="player2DeafultName">Player 2</string>
+    <string name="systemDeafultName">System</string>
+    <string name="systemTurnMessage">Please wait, Its Systems turn</string>
+    <string name="textSize">26</string>
+    <string name="rollMeText">Roll Me!!</string>
+    <string name="rollMeTextColor">#3DAEFF</string>
+    <string name="anotherChanceText">[PLAYERNAME] got one more chance!!</string>
+    <string name="gameWonText">Game Over!\n[PLAYERNAME] Won!!</string>
+    <string name="blinkTextDelay">700</string>
+    <string name="diceRollingDelay">100</string>
+    <string name="coinMovingDelay">100</string>
+    <string name="pausingDelay">2000</string>
+    <string name="pixelIncrement">15</string>
+    <string name="boardScreenPercent">95</string>
+    <string name="boardMaxNumber">100</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="startNewGame">Start New Game?</string>
+    <string name="game_over">Game Over!</string>
+    <string name="preferences_filename">SnakesLaddersPrefsFile</string>
+    <string name="admobPublisherID">a14f15ebf813510</string>
+</resources>

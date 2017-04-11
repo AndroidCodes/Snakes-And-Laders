@@ -1,0 +1,4 @@
+#Tue Apr 11 15:39:21 IST 2017
+base.0=/home/peacock/sl/SnakesAndLaders/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/peacock/sl/SnakesAndLaders/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

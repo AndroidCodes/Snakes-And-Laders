@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/home/peacock/Omi Shared/Omi Backup/AndroidStudioProjects/Snakes/app/build/intermediates/res/merged/debug/anim/popup_animation.xml",
+        "source": "/home/peacock/Omi Shared/Omi Backup/AndroidStudioProjects/Snakes/app/src/main/res/anim/popup_animation.xml"
+    },
+    {
+        "merged": "/home/peacock/Omi Shared/Omi Backup/AndroidStudioProjects/Snakes/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/peacock/.android/build-cache/d6f8d97603357fab8a28be28d3ca7d15dfe80e9b/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/peacock/Omi Shared/Omi Backup/AndroidStudioProjects/Snakes/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/peacock/.android/build-cache/5bad177be568b2699400c634bc08483698f9ff83/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/peacock/Omi Shared/Omi Backup/AndroidStudioProjects/Snakes/app/build/intermediates/res/merged/debug/anim/fab_rotate_animation.xml",
+        "source": "/home/peacock/Omi Shared/Omi Backup/AndroidStudioProjects/Snakes/app/src/main/res/anim/fab_rotate_animation.xml"
+    },
+    {
+        "merged": "/home/peacock/sl/SnakesAndLaders/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/peacock/.android/build-cache/5bad177be568b2699400c634bc08483698f9ff83/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/peacock/sl/SnakesAndLaders/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/peacock/.android/build-cache/d6f8d97603357fab8a28be28d3ca7d15dfe80e9b/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/peacock/Omi Shared/Omi Backup/AndroidStudioProjects/Snakes/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/peacock/.android/build-cache/5bad177be568b2699400c634bc08483698f9ff83/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/peacock/sl/SnakesAndLaders/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/peacock/.android/build-cache/d6f8d97603357fab8a28be28d3ca7d15dfe80e9b/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/peacock/Omi Shared/Omi Backup/AndroidStudioProjects/Snakes/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/peacock/.android/build-cache/5bad177be568b2699400c634bc08483698f9ff83/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/peacock/Omi Shared/Omi Backup/AndroidStudioProjects/Snakes/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/peacock/.android/build-cache/d6f8d97603357fab8a28be28d3ca7d15dfe80e9b/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/peacock/sl/SnakesAndLaders/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/peacock/.android/build-cache/d6f8d97603357fab8a28be28d3ca7d15dfe80e9b/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/peacock/sl/SnakesAndLaders/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/peacock/.android/build-cache/5bad177be568b2699400c634bc08483698f9ff83/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/peacock/Omi Shared/Omi Backup/AndroidStudioProjects/Snakes/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/peacock/.android/build-cache/d6f8d97603357fab8a28be28d3ca7d15dfe80e9b/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/peacock/Omi Shared/Omi Backup/AndroidStudioProjects/Snakes/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/peacock/.android/build-cache/d6f8d97603357fab8a28be28d3ca7d15dfe80e9b/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/peacock/Omi Shared/Omi Backup/AndroidStudioProjects/Snakes/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/peacock/.android/build-cache/5bad177be568b2699400c634bc08483698f9ff83/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/peacock/Omi Shared/Omi Backup/AndroidStudioProjects/Snakes/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/peacock/.android/build-cache/d6f8d97603357fab8a28be28d3ca7d15dfe80e9b/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/peacock/sl/SnakesAndLaders/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/peacock/.android/build-cache/5bad177be568b2699400c634bc08483698f9ff83/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/peacock/Omi Shared/Omi Backup/AndroidStudioProjects/Snakes/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/peacock/.android/build-cache/d6f8d97603357fab8a28be28d3ca7d15dfe80e9b/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/peacock/sl/SnakesAndLaders/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/peacock/.android/build-cache/d6f8d97603357fab8a28be28d3ca7d15dfe80e9b/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/peacock/Omi Shared/Omi Backup/AndroidStudioProjects/Snakes/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/peacock/.android/build-cache/d6f8d97603357fab8a28be28d3ca7d15dfe80e9b/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/peacock/sl/SnakesAndLaders/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/peacock/.android/build-cache/d6f8d97603357fab8a28be28d3ca7d15dfe80e9b/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/peacock/Omi Shared/Omi Backup/AndroidStudioProjects/Snakes/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/peacock/.android/build-cache/d6f8d97603357fab8a28be28d3ca7d15dfe80e9b/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/peacock/sl/SnakesAndLaders/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/peacock/.android/build-cache/d6f8d97603357fab8a28be28d3ca7d15dfe80e9b/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/peacock/Omi Shared/Omi Backup/AndroidStudioProjects/Snakes/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/peacock/.android/build-cache/d6f8d97603357fab8a28be28d3ca7d15dfe80e9b/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/peacock/Omi Shared/Omi Backup/AndroidStudioProjects/Snakes/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/peacock/.android/build-cache/d6f8d97603357fab8a28be28d3ca7d15dfe80e9b/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/peacock/sl/SnakesAndLaders/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/peacock/.android/build-cache/d6f8d97603357fab8a28be28d3ca7d15dfe80e9b/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/peacock/sl/SnakesAndLaders/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/peacock/.android/build-cache/d6f8d97603357fab8a28be28d3ca7d15dfe80e9b/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/peacock/sl/SnakesAndLaders/app/build/intermediates/res/merged/debug/anim/popup_animation.xml",
+        "source": "/home/peacock/sl/SnakesAndLaders/app/src/main/res/anim/popup_animation.xml"
+    },
+    {
+        "merged": "/home/peacock/sl/SnakesAndLaders/app/build/intermediates/res/merged/debug/anim/fab_rotate_animation.xml",
+        "source": "/home/peacock/sl/SnakesAndLaders/app/src/main/res/anim/fab_rotate_animation.xml"
+    },
+    {
+        "merged": "/home/peacock/sl/SnakesAndLaders/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/peacock/.android/build-cache/d6f8d97603357fab8a28be28d3ca7d15dfe80e9b/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/peacock/sl/SnakesAndLaders/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/peacock/.android/build-cache/d6f8d97603357fab8a28be28d3ca7d15dfe80e9b/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/peacock/sl/SnakesAndLaders/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/peacock/.android/build-cache/5bad177be568b2699400c634bc08483698f9ff83/output/res/anim/design_snackbar_in.xml"
+    }
+]
